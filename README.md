@@ -1,4 +1,4 @@
-## About The Project
+## About The Project Features
 - Admin Panel
 - Live Edit
 - Writing, editing text in real-time
